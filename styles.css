@@ -33,30 +33,30 @@
 }
 .list1:hover {
     padding: 10px;
-    border-bottom: 4px solid #ffffff;
+    border-bottom: 1px solid #ffffff;
 
 }
 .list2:hover {
    padding: 10px;
-    border-bottom: 4px solid #ffffff;
+    border-bottom: 1px solid #ffffff;
     background-color: #3F51B5
 }
 .list3:hover {
     padding: 10px;
-    border-bottom: 4px solid #ffffff;
+    border-bottom: 1px solid #ffffff;
 }
 .list4:hover {
     padding: 10px;
-    border-bottom: 4px solid #ffffff;
+    border-bottom: 1px solid #ffffff;
     background-color: #3F51B5;
 }
 .list5:hover {
     padding: 10px;
-    border-bottom: 4px solid #ffffff;
+    border-bottom: 1px solid #ffffff;
 }
 .list6:hover {
     padding: 10px;
-    border-bottom: 4px solid #ffffff;
+    border-bottom: 1px solid #ffffff;
 }
 .discription {
     font-size: 24px;
@@ -72,6 +72,7 @@
     width: 500px;
     text-align: center;
     margin: 0 auto;
-}
 
 }
+
+*{transition: all .1s ease-in;}
