@@ -31,32 +31,32 @@
     margin: 25px auto;
     padding: 10px;
 }
-.list1 {
+.list1:hover {
     padding: 10px;
-    border-bottom: 2px solid #ffffff;
+    border-bottom: 4px solid #ffffff;
 
 }
-.list2 {
+.list2:hover {
    padding: 10px;
-    border-bottom: 2px solid #ffffff;
+    border-bottom: 4px solid #ffffff;
     background-color: #3F51B5
 }
-.list3 {
+.list3:hover {
     padding: 10px;
     border-bottom: 4px solid #ffffff;
 }
-.list4 {
+.list4:hover {
     padding: 10px;
     border-bottom: 4px solid #ffffff;
     background-color: #3F51B5;
 }
-.list5 {
+.list5:hover {
     padding: 10px;
-    border-bottom: 2px solid #ffffff;
+    border-bottom: 4px solid #ffffff;
 }
-.list6 {
+.list6:hover {
     padding: 10px;
-    border-bottom: 2px solid #ffffff;
+    border-bottom: 4px solid #ffffff;
 }
 .discription {
     font-size: 24px;
@@ -72,4 +72,6 @@
     width: 500px;
     text-align: center;
     margin: 0 auto;
+}
+
 }
